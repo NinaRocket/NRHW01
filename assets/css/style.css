@@ -80,8 +80,10 @@ p{
     padding: 20px;
     clear: both;
     float: right;
+    position: right; 
     width: 20%;
     height: 100%;
+    text-align: center; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }

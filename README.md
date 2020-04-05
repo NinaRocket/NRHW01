@@ -11,5 +11,5 @@ First Homework
 
 5. Condensed the benefits features in the CSS code, using .benifits class and .benefit-color class. 
 
-6. 
+6. Made the benefits panel an <aside> and floated right. 
 
