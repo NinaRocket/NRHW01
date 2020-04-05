@@ -15,5 +15,10 @@ First Homework
 
 7. Attempted an alt description for the background image that is referenced in the CSS. Stackoverflow said title was an option. 
 
-8. Changed some divs to semantic tags.
+8. Changed some divs to semantic tags: section and footer.
 
+9. Cleaned up by adding line breaks in content section. Also moved some CSS code around to flow more logically. 
+
+10. Realized I had body as first element in CSS rather than *, corrected that, my bad. 
+
+11. Added titles to the links for further accessibility. 
