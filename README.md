@@ -14,3 +14,5 @@ First Homework
 6. Made the benefits panel an <aside> and floated right. 
 
 7. Attempted an alt description for the background image that is referenced in the CSS. Stackoverflow said title was an option. 
+
+8. Changed some divs to semantic tags.
